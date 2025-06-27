@@ -1,4 +1,3 @@
-
 # Router 1x3 Project
 
 This repository contains the RTL design and UVM verification environment for a 1x3 Router project. The router is designed to route packets from a single input port to three output ports based on the header information.
@@ -10,6 +9,14 @@ The Router 1x3 is a digital design that:
 - Uses FIFOs for output buffering (16x9 bits each)
 - Implements parity checking for error detection
 - Features a FSM-based control system
+
+## Architecture
+
+### RTL Block Diagram
+![Router RTL Architecture](arch.jpeg)
+
+### UVM Testbench Architecture
+![UVM Architecture](uvmarch.jpeg)
 
 ## Key Features
 
@@ -119,4 +126,5 @@ Coverage reports are available in the `report/` directory:
 
 ## Contributors
 This project was developed by:
-- Chandragiri Kusuma
+- [Chandragiri Kusuma](https://github.com/ChandragiriKusumaReddy)
+

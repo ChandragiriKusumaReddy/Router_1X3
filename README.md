@@ -119,4 +119,4 @@ Coverage reports are available in the `report/` directory:
 
 ## Contributors
 This project was developed by:
-- [Chandragiri Kusuma]
+- Chandragiri Kusuma

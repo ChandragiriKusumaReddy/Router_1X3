@@ -11,14 +11,6 @@ The Router 1x3 is a digital design that:
 - Implements parity checking for error detection
 - Features a FSM-based control system
 
-## Architecture
-
-### RTL Block Diagram
-![Router RTL Architecture](arch.jpeg)
-
-### UVM Testbench Architecture
-![UVM Architecture](uvmarch.jpeg)
-
 ## Key Features
 
 ### Input Protocol
